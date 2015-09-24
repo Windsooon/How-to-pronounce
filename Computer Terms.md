@@ -46,7 +46,7 @@
     /ˈdʒɪf/ or /ˈɡɪf/
     "jif" 
 >####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
-    IPA: /ˈɡuːi/
+    /ˈɡuːi/
     "" 
 ***
 
@@ -64,110 +64,110 @@
 
 ### J
 >####[JAVA](http://dictionary.cambridge.org/pronunciation/english/java) 
-    IPA:/ˈdʒɑːvə/
+    /ˈdʒɑːvə/
     "" 
 >####[JPEG](https://en.wikipedia.org/wiki/JPEG) 
-    IPA:/ˈdʒeɪpɛɡ/
+    /ˈdʒeɪpɛɡ/
     "jay-peg" 
 ***
 
 ### K
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### L
 >####[Linux](https://en.wikipedia.org/wiki/Linux)  
-    IPA:/ˈlɪnəks/
+    /ˈlɪnəks/
     "" 
 ***
 
 ### M
 >####[MySQL](https://en.wikipedia.org/wiki/MySQL)
-    IPA:/maɪ ˌɛskjuːˈɛl/ or  /maɪ ˈsiːkwəl/
+    /maɪ ˌɛskjuːˈɛl/ or  /maɪ ˈsiːkwəl/
     "my s-q-l or my sequel" 
 ***
 
 ### N
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c-plus-plus" 
 ***
 
 ### O
 >####[OS X](https://en.wikipedia.org/wiki/OS_X)  
-    IPA:/ˌoʊ.ɛs ˈtɛn/
+    /ˌoʊ.ɛs ˈtɛn/
     "o-s-ten" 
     
 ***
 
 ### P
 >####[PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
-    IPA: /ˈpɪŋ/
+    /ˈpɪŋ/
     "" 
 >####[Python](http://dictionary.cambridge.org/pronunciation/english/python) 
-    IPA: /ˈpaɪ.θən/ or /ˈpɑɪ·θɑn, -θən/
+    /ˈpaɪ.θən/ or /ˈpɑɪ·θɑn, -θən/
     "" 
 ***
 
 ### Q
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### R
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### S
 >####[Skype](https://en.wikipedia.org/wiki/Skype)  
-    IPA:/skaɪp/
+    /skaɪp/
     "" 
 ***
 
 ### T
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### U
 >####[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
-    IPA:/ʊˈbuːntʊ/
+    /ʊˈbuːntʊ/
     "" 
 ***
 
 ### V
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### W
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### X
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### Y
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### Z
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
     
