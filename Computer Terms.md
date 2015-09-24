@@ -13,7 +13,7 @@
     /ˈsiː plʌs plʌs/]
     "c-plus-plus"
 >####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
-    /ˈsiː plʌs plʌs/]
+    /ˈsiː ʃɑ:rp/]
     "c-sharp"
 >####[cache](https://en.wiktionary.org/wiki/cache#English)    
     /kæʃ/
