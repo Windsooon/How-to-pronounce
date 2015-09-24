@@ -45,6 +45,9 @@
 >####[GIF](https://en.wikipedia.org/wiki/GIF) 
     /ˈdʒɪf/ or /ˈɡɪf/
     "jif" 
+>####[Git](https://en.wikipedia.org/wiki/Git_(software))
+    /ɡɪt/
+    "" 
 >####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
     /ˈɡuːi/
     "" 
