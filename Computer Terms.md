@@ -81,9 +81,10 @@
 ***
 
 ### O
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####[OS X](https://en.wikipedia.org/wiki/OS_X)  
+    IPA:/ˌoʊ.ɛs ˈtɛn/
+    "O-S ten" 
+    
 ***
 
 ### P
