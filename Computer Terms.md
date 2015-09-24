@@ -24,7 +24,7 @@
 ***
 
 ### D
->####Django
+>####[Django](https://en.wikipedia.org/wiki/Django_(web_framework))
     IPA: /ˈdʒæŋɡoʊ/
     "" 
 ***
@@ -42,10 +42,10 @@
 ***
 
 ### G
->####GIF 
+>####[GIF](https://en.wikipedia.org/wiki/GIF) 
     IPA: /ˈdʒɪf/ or /ˈɡɪf/
     "jif" 
->####GUI
+>####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
     IPA: /ˈɡuːi/
     "" 
 ***
@@ -124,7 +124,7 @@
 ***
 
 ### S
->####Skype  
+>####[Skype](https://en.wikipedia.org/wiki/Skype)  
     IPA:/skaɪp/
     "" 
 ***
