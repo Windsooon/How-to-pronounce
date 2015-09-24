@@ -11,7 +11,10 @@
 ### C
 >####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
     IPA:/ˈsiː plʌs plʌs/]
-    "C Plus Plus"
+    "c plus plus"
+>####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
+    IPA:/ˈsiː plʌs plʌs/]
+    "c sharp"
 >####[cache](https://en.wiktionary.org/wiki/cache#English)    
     IPA:/kæʃ/
     "cash"
@@ -29,13 +32,13 @@
 ### E
 >####[Emacs](http://samson7b.iteye.com/blog/1120548) 
     IPA:/ˈiːmæks/
-    "E max" 
+    "e max" 
 ***
 
 ### F
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### G
@@ -50,49 +53,52 @@
 ### H
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### I
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### J
 >####[JAVA](http://dictionary.cambridge.org/pronunciation/english/java) 
     IPA:/ˈdʒɑːvə/
     "" 
+>####[JPEG](https://en.wikipedia.org/wiki/JPEG) 
+    IPA:/ˈdʒeɪpɛɡ/
+    "jay peg" 
 ***
 
 ### K
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### L
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####[Linux](https://en.wikipedia.org/wiki/Linux)  
+    IPA:/ˈlɪnəks/
+    "" 
 ***
 
 ### M
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### N
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### O
 >####[OS X](https://en.wikipedia.org/wiki/OS_X)  
     IPA:/ˌoʊ.ɛs ˈtɛn/
-    "O-S ten" 
+    "o s ten" 
     
 ***
 
@@ -108,13 +114,13 @@
 ### Q
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### R
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### S
@@ -126,42 +132,42 @@
 ### T
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### U
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+    IPA:/ʊˈbuːntʊ/
+    "" 
 ***
 
 ### V
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### W
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### X
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### Y
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
 
 ### Z
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+    "c plus plus" 
 ***
     
