@@ -1,6 +1,6 @@
 ### A
 >####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
-    IPA:/ˈeɪ.dʒæks/
+    /ˈeɪ.dʒæks/
     "ay-jax" 
 
 ***
@@ -10,40 +10,40 @@
 
 ### C
 >####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
-    IPA:/ˈsiː plʌs plʌs/]
+    /ˈsiː plʌs plʌs/]
     "c-plus-plus"
 >####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
-    IPA:/ˈsiː plʌs plʌs/]
+    /ˈsiː plʌs plʌs/]
     "c-sharp"
 >####[cache](https://en.wiktionary.org/wiki/cache#English)    
-    IPA:/kæʃ/
+    /kæʃ/
     "cash"
 >####[Chrome](https://en.wiktionary.org/wiki/chrome)    
-    IPA:/kɹəʊm/ or /kɹoʊm/
+    /kɹəʊm/ or /kɹoʊm/
     ""
 ***
 
 ### D
 >####[Django](https://en.wikipedia.org/wiki/Django_(web_framework))
-    IPA: /ˈdʒæŋɡoʊ/
+    /ˈdʒæŋɡoʊ/
     "" 
 ***
 
 ### E
 >####[Emacs](http://samson7b.iteye.com/blog/1120548) 
-    IPA:/ˈiːmæks/
+    /ˈiːmæks/
     "e-max" 
 ***
 
 ### F
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### G
 >####[GIF](https://en.wikipedia.org/wiki/GIF) 
-    IPA: /ˈdʒɪf/ or /ˈɡɪf/
+    /ˈdʒɪf/ or /ˈɡɪf/
     "jif" 
 >####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
     IPA: /ˈɡuːi/
@@ -52,13 +52,13 @@
 
 ### H
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### I
 >####C++  
-    IPA:[t͡sɛ plus plus]
+    [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
