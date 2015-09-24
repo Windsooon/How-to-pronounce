@@ -1,8 +1,12 @@
 ### A
+>####Ajax  
+    IPA:/ˈeɪ.dʒæks/
+    "Ay jax" 
 
+***
 ### B
-
+***
 ### C
-* ####C++  
-
-    >"C Plus Plus" /ˌsiːˌplʌsˈplʌs/
+>####C++  
+    IPA:[t͡sɛ plus plus]
+    "C Plus Plus" 
