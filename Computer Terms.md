@@ -1,5 +1,5 @@
 ### A
->####Ajax  
+>####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
     IPA:/ˈeɪ.dʒæks/
     "Ay jax" 
 
@@ -15,8 +15,8 @@
 ***
 
 ### D
->####C++  
-    IPA:[t͡sɛ plus plus]
+>####[C++](https://en.wikipedia.org/wiki/C%2B%2B)  
+    IPA: /ˈsiː plʌs plʌs/
     "C Plus Plus" 
 ***
 
@@ -51,8 +51,8 @@
 ***
 
 ### J
->####JAVA 
-    IPA:/jǎːʋa/]
+>####[JAVA](http://dictionary.cambridge.org/pronunciation/english/java) 
+    IPA:/ˈdʒɑːvə/
     "" 
 ***
 
