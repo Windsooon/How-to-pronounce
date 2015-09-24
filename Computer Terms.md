@@ -21,15 +21,15 @@
 ***
 
 ### D
->####C++
-    IPA: /ˈsiː plʌs plʌs/
-    "C Plus Plus" 
+>####Django
+    IPA: /ˈdʒæŋɡoʊ/
+    "" 
 ***
 
 ### E
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####[Emacs](http://samson7b.iteye.com/blog/1120548) 
+    IPA:/ˈiːmæks/
+    "E max" 
 ***
 
 ### F
@@ -41,6 +41,9 @@
 ### G
 >####GIF 
     IPA: /ˈdʒɪf/ or /ˈɡɪf/
+    "jif" 
+>####GUI
+    IPA: /ˈɡuːi/
     "" 
 ***
 
@@ -94,8 +97,11 @@
 ***
 
 ### P
->####PNG 
+>####[PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
     IPA: /ˈpɪŋ/
+    "" 
+>####[Python](http://dictionary.cambridge.org/pronunciation/english/python) 
+    IPA: /ˈpaɪ.θən/ or /ˈpɑɪ·θɑn, -θən/
     "" 
 ***
 
