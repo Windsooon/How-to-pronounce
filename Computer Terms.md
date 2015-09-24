@@ -9,13 +9,19 @@
 ***
 
 ### C
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
+    IPA:/ˈsiː plʌs plʌs/]
+    "C Plus Plus"
+>####[cache](https://en.wiktionary.org/wiki/cache#English)    
+    IPA:/kæʃ/
+    "cash"
+>####[Chrome](https://en.wiktionary.org/wiki/chrome)    
+    IPA:/kɹəʊm/ or /kɹoʊm/
+    ""
 ***
 
 ### D
->####[C++](https://en.wikipedia.org/wiki/C%2B%2B)  
+>####C++
     IPA: /ˈsiː plʌs plʌs/
     "C Plus Plus" 
 ***
@@ -106,9 +112,9 @@
 ***
 
 ### S
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####Skype  
+    IPA:/skaɪp/
+    "" 
 ***
 
 ### T
