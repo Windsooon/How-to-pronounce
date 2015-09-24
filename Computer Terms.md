@@ -33,9 +33,9 @@
 ***
 
 ### G
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####GIF 
+    IPA: /ˈdʒɪf/ or /ˈɡɪf/
+    "" 
 ***
 
 ### H
@@ -51,9 +51,9 @@
 ***
 
 ### J
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####JAVA 
+    IPA:/jǎːʋa/]
+    "" 
 ***
 
 ### K
@@ -87,9 +87,9 @@
 ***
 
 ### P
->####C++  
-    IPA:[t͡sɛ plus plus]
-    "C Plus Plus" 
+>####PNG 
+    IPA: /ˈpɪŋ/
+    "" 
 ***
 
 ### Q
