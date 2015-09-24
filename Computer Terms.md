@@ -1,7 +1,7 @@
 ### A
 >####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
     IPA:/ˈeɪ.dʒæks/
-    "Ay jax" 
+    "ay-jax" 
 
 ***
 
@@ -11,10 +11,10 @@
 ### C
 >####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
     IPA:/ˈsiː plʌs plʌs/]
-    "c plus plus"
+    "c-plus-plus"
 >####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
     IPA:/ˈsiː plʌs plʌs/]
-    "c sharp"
+    "c-sharp"
 >####[cache](https://en.wiktionary.org/wiki/cache#English)    
     IPA:/kæʃ/
     "cash"
@@ -32,7 +32,7 @@
 ### E
 >####[Emacs](http://samson7b.iteye.com/blog/1120548) 
     IPA:/ˈiːmæks/
-    "e max" 
+    "e-max" 
 ***
 
 ### F
@@ -68,7 +68,7 @@
     "" 
 >####[JPEG](https://en.wikipedia.org/wiki/JPEG) 
     IPA:/ˈdʒeɪpɛɡ/
-    "jay peg" 
+    "jay-peg" 
 ***
 
 ### K
@@ -85,20 +85,20 @@
 
 ### M
 >####C++  
-    IPA:[t͡sɛ plus plus]
-    "c plus plus" 
+    IPA:/maɪ ˌɛskjuːˈɛl/ or  /maɪ ˈsiːkwəl/
+    "my s-q-l or my sequel" 
 ***
 
 ### N
 >####C++  
     IPA:[t͡sɛ plus plus]
-    "c plus plus" 
+    "c-plus-plus" 
 ***
 
 ### O
 >####[OS X](https://en.wikipedia.org/wiki/OS_X)  
     IPA:/ˌoʊ.ɛs ˈtɛn/
-    "o s ten" 
+    "o-s-ten" 
     
 ***
 
