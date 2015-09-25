@@ -1,6 +1,6 @@
 ### A
 >####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
-    /ˈeɪ.dʒæks/
+    /ˈeɪdʒæks/
     "ay-jax" 
 >####[AutoCAD](https://www.howtopronounce.com/autocad/)  
     //
