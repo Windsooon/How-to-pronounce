@@ -26,6 +26,9 @@
 >####[Chrome](https://en.wiktionary.org/wiki/chrome)    
     /kɹəʊm/ or /kɹoʊm/
     ""
+>####[Clojure](https://en.wikipedia.org/wiki/Clojure)    
+    //
+    "closure"
 ***
 
 ### D
