@@ -1,205 +1,499 @@
 ### A
->####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
-    /ˈeɪdʒæks/
-    "ay-jax" 
->####[AutoCAD](https://www.howtopronounce.com/autocad/)  
+>####ActionScript
     //
-    "auto-cat"
+    ""
+>####[Ada](http://dictionary.reference.com/browse/ada)  
+    [ey-duh]
+    ""
+>####AppleScript
+    //
+    ""
+>####ARexx 
+    //
+    ""
+>####AspectJ Assembly Language
+    //
+    ""
+>####AutoHotkey
+    //
+    ""
+>####AutoLisp
+    //
+    ""
+>####AWK
+    //
+    ""
 ***
 
 ### B
->####[BSD](https://tehtable.wordpress.com/2010/01/29/unix-pronunciation/)    
+>####B
     //
-    "bee-ess-dee"
+    ""
+>####Bash
+    //
+    ""
+>####Basic
+    //
+    ""
+>####batch
+    //
+    ""
+>####bc
+    //
+    ""
+>####BCPL
+    //
+    ""
+>####BeanShell
+    //
+    ""
+>####Bliss
+    //
+    ""
 ***
 
 ### C
->####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
-    /ˈsiː plʌs plʌs/
-    "c-plus-plus"
+>####C
+    //
+    ""
 >####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
     /ˈsiː ʃɑ:rp/
     "c-sharp"
->####[cache](https://en.wiktionary.org/wiki/cache#English)    
-    /kæʃ/
-    "cash"
->####[Chrome](https://en.wiktionary.org/wiki/chrome)    
-    /kɹəʊm/ or /kɹoʊm/
+>####[C++](https://en.wikipedia.org/wiki/C%2B%2B)    
+    /ˈsiː plʌs plʌs/
+    "c-plus-plus"
+>####C Shell
+    //
     ""
+>####Ceylon
+    //
+    ""
+>####CFML
+    //
+    ""
+>####Chef
+    //
+    ""
+>####CHIP-8
+    //
+    ""
+>####ChucK
+    //
+    ""
+>####Clojure
+    //
+    ""
+>####Cobol
+    //
+    ""
+>####CoffeeScript
+    //
+    ""
+>####Common Lisp
+    //
+    ""
+>####Coq
+    //
+    ""
+>####Csound
+    //
+    ""
+>####Css
+    //
+    ""
+
 ***
 
 ### D
->####[data](https://en.wiktionary.org/wiki/data#Pronunciation)
-    /ˈdeɪtə/ or /ˈdætə/ or /ˈdɑːtə/
+>####D
+    //
     ""
->####[Debian](https://en.wikipedia.org/wiki/Debian)
-    /ˈdɛbiən/
+>####Dark
+    //
     ""
->####[Django](https://en.wikipedia.org/wiki/Django_(web_framework))
-    /ˈdʒæŋɡoʊ/
-    "" 
+>####Dog
+    //
+    ""
+>####Drakon
+    //
+    ""
+>####Dylan
+    //
+    ""
+    
 ***
 
 ### E
->####[Emacs](http://samson7b.iteye.com/blog/1120548) 
-    /ˈiːmæks/
-    "e-max"
->####[erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) 
+>####EcmaScript
+    //
+    ""
+>####Emacs Lisp
+    //
+    ""
+>####[Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) 
     /ˈɜrlæŋ/ 
     "er-lang"
+    
 ***
 
 ### F
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Factor
+    //
+    ""
+>####Flow-matic
+    //
+    ""
+>####Forth
+    //
+    ""
+>####Fortran
+    //
+    ""
+    
 ***
 
 ### G
->####[GIF](https://en.wikipedia.org/wiki/GIF) 
-    /ˈdʒɪf/ or /ˈɡɪf/
-    "jif" 
->####[Git](https://en.wikipedia.org/wiki/Git_(software))
-    /ɡɪt/
+>####GNU Octave
+    //
+    ""
+>####Go
+    //
+    ""
+>####Groovy
+    //
     "" 
->####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
-    /ˈɡuːi/
-    "" 
+
 ***
 
 ### H
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Hack
+    //
+    ""
+>####Haskell
+    //
+    ""
+>####High Level Assembly
+    //
+    ""
+>####HTML
+    //
+    ""
+>####HyperTalk
+    //
+    ""
+    
 ***
 
 ### I
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####IBM Informix 4GL
+    //
+    ""
+>####Icon
+    //
+    ""
+>####Inform
+    //
+    ""
+    
 ***
 
 ### J
 >####[JAVA](http://dictionary.cambridge.org/pronunciation/english/java) 
     /ˈdʒɑːvə/
     "" 
->####[JPEG](https://en.wikipedia.org/wiki/JPEG) 
-    /ˈdʒeɪpɛɡ/
-    "jay-peg" 
->####[jQuery](https://groups.google.com/forum/#!msg/jquery-en/I5sV1_nOVsE/PN3e_QczOXwJ) 
+>####JavaScript
     //
     "" 
+>####Julia
+    //
+    ""
+>####Jython
+    //
+    ""
 ***
 
 ### K
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####K
+    //
+    "" 
+>####Kotlin
+    //
+    ""
+>####Ksh
+    //
+    ""
+    
 ***
 
 ### L
->####[Laravel](https://www.howtopronounce.com/laravel/)  
+>####LabView
     //
-    "lar-avel" 
->####[Linux](https://en.wikipedia.org/wiki/Linux)  
-    /ˈlɪnəks/
-    "" 
+    ""
+>####LATEX
+    //
+    ""
+>####Less
+    //
+    ""
+>####LilyPond
+    //
+    ""
+>####Lisp
+    //
+    ""
+>####Logo
+    //
+    ""
+>####Lua
+    //
+    ""
+    
 ***
 
 ### M
->####[MySQL](https://en.wikipedia.org/wiki/MySQL)
-    /maɪ ˌɛskjuːˈɛl/ or  /maɪ ˈsiːkwəl/
-    "my s-q-l or my sequel" 
+>####machine code
+    //
+    "" 
+>####Make
+    //
+    ""
+>####MASM
+    //
+    ""
+>####Mathematica
+    //
+    ""
+>####Max
+    //
+    ""
+>####Metafont
+    //
+    ""
+>####Microcode
+    //
+    ""
+>####Modula-3
+    //
+    ""
+>####Mumps
+    //
+    ""
+    
 ***
 
 ### N
->####C++  
-    [t͡sɛ plus plus]
-    "c-plus-plus" 
+>####NASM
+    //
+    ""
+>####NetLogo
+    //
+    ""
+>####NewtonScript
+    //
+    ""
+    
 ***
 
 ### O
->####[OpenSUSE](https://en.wikipedia.org/wiki/OpenSUSE)  
-    /ˌoʊpənˈsuːzə/
+>####Oak
+    //
+    ""
+>####Objective-C
+    //
     "" 
->####[OS X](https://en.wikipedia.org/wiki/OS_X)  
-    /ˌoʊ.ɛs ˈtɛn/
-    "o-s-ten" 
+>####OCaml
+    //
+    ""
+>####Oz
+    //
+    ""
     
 ***
 
 ### P
->####[PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
-    /ˈpɪŋ/
-    "" 
->####[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL#Name)
-    /ˈpoʊstɡrɛs ˌkjuː ˈɛl/
-    "" 
->####[Python](http://dictionary.cambridge.org/pronunciation/english/python) 
-    /ˈpaɪ.θən/ or /ˈpɑɪ·θɑn, -θən/
-    "" 
+>####PARI/GP
+    //
+    ""
+>####Perl
+    //
+    ""
+>####Perl6
+    //
+    ""
+>####PHP
+    //
+    ""
+>####PicoLisp
+    //
+    ""
+>####Plankalkül
+    //
+    ""
+>####PostScript
+    //
+    ""
+>####Processing
+    //
+    ""
+>####Processing.js
+    //
+    ""
+>####Prolog
+    //
+    ""
+>####Python
+    //
+    ""
+    
 ***
 
 ### Q
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>#### 
+    //
+    "" 
+    
 ***
 
 ### R
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Rocket
+    //
+    ""
+>####Ratfor
+    //
+    ""
+>####Rebol
+    //
+    ""
+>####REXX
+    //
+    ""
+>####Ruby
+    //
+    ""
+>####Rust
+    //
+    ""
+    
 ***
 
 ### S
->####[Skype](https://en.wikipedia.org/wiki/Skype)  
-    /skaɪp/
-    "" 
+>####S
+    //
+    ""
+>####Sass
+    //
+    ""
+>####Scala
+    //
+    ""
+>####Scheme
+    //
+    ""
+>####Scratch
+    //
+    ""
+>####Sed
+    //
+    ""
+>####Self
+    //
+    ""
+>####Simula
+    //
+    ""
+>####Smalltalk
+    //
+    ""
+>####Snobol
+    //
+    ""
+>####SQL
+    //
+    ""
+>####Stackless Python
+    //
+    ""
+>####SuperCollider
+    //
+    ""
+>####Swift
+    //
+    ""
+    
 ***
 
 ### T
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####TADS
+    //
+    ""
+>####Tcl
+    //
+    ""
+>####TECO
+    //
+    ""
+>####TEX
+    //
+    ""
+>####TMG
+    //
+    ""
+>####Turbo C++
+    //
+    ""
+>####TypeScript
+    //
+    ""
+    
 ***
 
 ### U
->####[Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
-    /ʊˈbuːntʊ/
-    "" 
->####[Unix](https://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
+>####Unicon
     //
-    "you-nicks" 
+    ""
+>####Unix shell
+    //
+    ""
+    
 ***
 
 ### V
->####[Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
-    /vɪm/
-    "veem" 
+>####Verilog
+    //
+    ""
+>####VHDL
+    //
+    ""
+>####Visual Basic
+    //
+    ""
+
 ***
 
 ### W
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Wolfram
+    //
+    ""
 ***
 
 ### X
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Xquery
+    //
+    ""
+>####XSLT
+    //
+    ""
 ***
 
 ### Y
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####Yorick
+    //
+    "" 
 ***
 
 ### Z
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####ZPL
+    //
+    ""
 ***
     
