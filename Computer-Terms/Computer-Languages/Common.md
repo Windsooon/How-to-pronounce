@@ -20,9 +20,9 @@
 >####AutoLisp
     //
     ""
->####AWK
+>####[AWK](http://computer-programming-forum.com/11-awk/2b3847ea18e1b35a.htm)
     //
-    ""
+    "hawk"
 ***
 
 ### B
@@ -229,9 +229,9 @@
 >####LabView
     //
     ""
->####LATEX
-    //
-    ""
+>####LaTeX
+    /ˈlɑːtɛx/ or /ˈleɪtɛx/
+    "lah-tekh" or "lay-tekh"
 >####Less
     //
     ""
