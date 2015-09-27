@@ -20,6 +20,18 @@
 >####['](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/apostrophe?q=Apostrophe)
     Apostrophe /əˈpɒs.trə.fi/
     ""
+>####[*](https://en.wikipedia.org/wiki/Asterisk)
+    Asterisk /'æstɚɪsk/
+    ""
+>####[()](https://en.wikipedia.org/wiki/Bracket)
+    Round brackets or parentheses
+    ""
+>####[{}](https://en.wikipedia.org/wiki/Bracket)
+    Braces or curly brackets
+    ""
+>####[<>](https://en.wikipedia.org/wiki/Bracket)
+    Chevrons or angle brackets
+    ""
     
 ***
 
