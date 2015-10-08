@@ -1,6 +1,6 @@
 ### A
 >####ActionScript
-    //
+    /ˈækʃn skrɪpt/ or /ˈækʃən skrɪpt/
     ""
 >####[Ada](http://dictionary.reference.com/browse/ada)  
     [ey-duh]
@@ -29,8 +29,8 @@
 >####B
     //
     ""
->####Bash
-    //
+>####[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+    /bæʃ/
     ""
 >####Basic
     //
