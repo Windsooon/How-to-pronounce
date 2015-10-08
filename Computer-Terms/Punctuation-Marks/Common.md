@@ -23,6 +23,21 @@
 >####[*](https://en.wikipedia.org/wiki/Asterisk)
     Asterisk /'æstɚɪsk/
     ""
+>####[+](https://en.wikipedia.org/wiki/Plus_and_minus_signs)
+    Plus sign
+    ""
+>####[-](https://en.wikipedia.org/wiki/Plus_and_minus_signs)
+    minus sign
+    ""
+>####[,](https://en.wikipedia.org/wiki/Comma)
+    Comma /ˈkɒmə/ or /ˈkɑ:mə/
+    ""
+>####[-](https://en.wikipedia.org/wiki/Hyphen-minus)
+    Hyphen-minus  /ˈhaɪfn ˈmaɪnəs/ or /ˈhaɪfən ˈmaɪnəs/
+    ""
+>####[.](https://en.wikipedia.org/wiki/Dot)
+    Dot /dɒt/ or /dɑ:t/
+    ""
 >####[()](https://en.wikipedia.org/wiki/Bracket)
     Round brackets or parentheses
     ""
