@@ -3,7 +3,7 @@
     Exclamation mark //
     ""
 >####["](https://en.wikipedia.org/wiki/Quotation_mark)  
-    Quotation mark //
+    Quotation mark /ˌek.skləˈmeɪ.ʃən mɑːk/
     ""
 >####[#](https://en.wikipedia.org/wiki/Number_sign#Other_names_in_English)
     Number sign //
@@ -37,6 +37,12 @@
     ""
 >####[.](https://en.wikipedia.org/wiki/Dot)
     Dot /dɒt/ or /dɑ:t/
+    ""
+>####[/](https://en.wikipedia.org/wiki/Slash_(punctuation))
+    Slash /slæʃ/
+    ""
+>####[:](https://en.wikipedia.org/wiki/Colon_(punctuation))
+    Colon /ˈkəʊ.lɒn/ or /ˈkoʊ.lən/
     ""
 >####[()](https://en.wikipedia.org/wiki/Bracket)
     Round brackets or parentheses
