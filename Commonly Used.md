@@ -53,9 +53,9 @@
 ***
 
 ### F
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####[Fortran](http://dictionary.cambridge.org/us/pronunciation/english/fortran)
+    /ˈfɔːtræn/ or /ˈfɔːtræn/
+    "" 
 ***
 
 ### G
@@ -71,9 +71,9 @@
 ***
 
 ### H
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####[Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language))  
+    /ˈhæskəl/
+    "" 
 ***
 
 ### I
@@ -150,9 +150,9 @@
 ***
 
 ### R
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####React Native  
+    /riˈækt ˈneɪ.tɪv/ 
+    "" 
 ***
 
 ### S
