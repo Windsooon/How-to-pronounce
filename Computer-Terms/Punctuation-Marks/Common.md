@@ -56,7 +56,7 @@
 >####[@]()
     At sign
     ""
->####[\\]()
+>####\\
     Backslash
     ""
 >####[()](https://en.wikipedia.org/wiki/Bracket)
