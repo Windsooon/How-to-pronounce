@@ -1,71 +1,71 @@
 ### Single Characters
->####[!](https://en.wikipedia.org/wiki/Exclamation_mark)
-    Exclamation mark //
+>####[!](http://dictionary.cambridge.org/us/pronunciation/english/exclamation-mark)
+    Exclamation mark /ˌek.skləˈmeɪ.ʃən mɑːk/
     ""
->####["](https://en.wikipedia.org/wiki/Quotation_mark)  
+>####["](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/quotation-marks)  
     Quotation mark /ˌek.skləˈmeɪ.ʃən mɑːk/
     ""
 >####[#](https://en.wikipedia.org/wiki/Number_sign#Other_names_in_English)
     Number sign //
     ""
->####[$](https://en.wikipedia.org/wiki/Dollar_sign)
+>####[$](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/dollar-sign)
     Dollar sign //
     ""
 >####[%](https://en.wikipedia.org/wiki/Percent_sign)
     Percent sign //
     ""
->####[&](http://dictionary.cambridge.org/pronunciation/english/ampersand)
+>####[&](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/ampersand?q=Ampersand)
     Ampersand /ˈæm.pə.sænd/ 
     ""
 >####['](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/apostrophe?q=Apostrophe)
     Apostrophe /əˈpɒs.trə.fi/
     ""
->####[*](https://en.wikipedia.org/wiki/Asterisk)
+>####[*](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/asterisk_1?q=Asterisk)
     Asterisk /'æstɚɪsk/
     ""
->####[+](https://en.wikipedia.org/wiki/Plus_and_minus_signs)
-    Plus sign
+>####[+](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/plus_4?q=plus+sign)
+    Plus sign /plʌs saɪn/
     ""
 >####[-](https://en.wikipedia.org/wiki/Plus_and_minus_signs)
-    minus sign
+    minus sign /ˈmaɪ.nəs saɪn/
     ""
->####[,](https://en.wikipedia.org/wiki/Comma)
+>####[,](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/comma)
     Comma /ˈkɒmə/ or /ˈkɑ:mə/
     ""
 >####[-](https://en.wikipedia.org/wiki/Hyphen-minus)
     Hyphen-minus  /ˈhaɪfn ˈmaɪnəs/ or /ˈhaɪfən ˈmaɪnəs/
     ""
->####[.](https://en.wikipedia.org/wiki/Dot)
+>####[.](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/dot_1)
     Dot /dɒt/ or /dɑ:t/
     ""
->####[/](https://en.wikipedia.org/wiki/Slash_(punctuation))
+>####[/](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/slash_1)
     Slash /slæʃ/
     ""
->####[:](https://en.wikipedia.org/wiki/Colon_(punctuation))
+>####[:](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/colon_1)
     Colon /ˈkəʊ.lɒn/ or /ˈkoʊ.lən/
     ""
->####[;]()
-    Semicolon 
+>####[;](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/semicolon?q=Semicolon+)
+    Semicolon /ˌsem.iˈkəʊ.lɒn/ or /ˈsem.iˌkoʊ.lən/
     ""
->####[=]()
-    Equals sign 
+>####[=](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/equal-sign?q=Equals+sign+)
+    Equals sign /ˈiː.kwəl saɪn/
     ""
->####[?]()
+>####[?](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/question-mark?q=Question+mark)
     Question mark 
     ""
->####[@]()
+>####[@](https://en.wikipedia.org/wiki/At_sign)
     At sign
     ""
 >####\\
     Backslash
     ""
->####[()](https://en.wikipedia.org/wiki/Bracket)
+>####[()](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/round-brackets?q=Round+brackets)
     Round brackets or parentheses
     ""
->####[{}](https://en.wikipedia.org/wiki/Bracket)
+>####[{}](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/brace_1?q=Braces)
     Braces or curly brackets
     ""
->####[<>](https://en.wikipedia.org/wiki/Bracket)
+>####[<>](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/chevron?q=Chevrons)
     Chevrons or angle brackets
     ""
     
@@ -73,5 +73,5 @@
 
 ### Multiple Character Strings
 >####[?!](https://en.wikipedia.org/wiki/Interrobang)
-    /ɪnˈtɛrɵbæŋ/ Interrobang  
+    Interrobang /ɪnˈtɛrɵbæŋ/ 
     ""
