@@ -44,6 +44,21 @@
 >####[:](https://en.wikipedia.org/wiki/Colon_(punctuation))
     Colon /ˈkəʊ.lɒn/ or /ˈkoʊ.lən/
     ""
+>####[;]()
+    Semicolon 
+    ""
+>####[=]()
+    Equals sign 
+    ""
+>####[?]()
+    Question mark 
+    ""
+>####[@]()
+    At sign
+    ""
+>####[\\]()
+    Backslash
+    ""
 >####[()](https://en.wikipedia.org/wiki/Bracket)
     Round brackets or parentheses
     ""
