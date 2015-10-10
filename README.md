@@ -7,8 +7,8 @@
 
 ###For example
 >### A
->####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) 
-*The link should use the international phonetic alphabet or similar pronunciation ——链接需指向单词的音标或带有近似读音的页面*
+>####[Ajax](http://dictionary.reference.com/browse/ajax?s=t) 
+*The link should use the similar pronunciation or international phonetic alphabet  ——链接需指向带有单词的真人读音或单词的页面*
 
       /ˈeɪ.dʒæks/  (phonetic symbol)
       "ay-jax"     (similar pronunciation)
