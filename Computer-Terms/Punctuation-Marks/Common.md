@@ -59,6 +59,12 @@
 >####\\
     Backslash
     ""
+>####[^](http://dictionary.cambridge.org/pronunciation/english/caret)
+    Caret /ˈkær.ət/ or /ˈker-/
+    ""
+>####[_](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/underscore?q=Underscore)
+    Underscore /ˌʌn.dəˈskɔːr/ or /-dɚˈskɔːr/
+    ""
 >####[()](http://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/round-brackets?q=Round+brackets)
     Round brackets or parentheses
     ""
