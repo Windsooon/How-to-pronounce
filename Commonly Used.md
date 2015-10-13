@@ -20,10 +20,10 @@
 >####[C#](https://en.wikipedia.org/wiki/C%2B%2B)    
     /ˈsiː ʃɑ:rp/
     "c-sharp"
->####[cache](https://en.wiktionary.org/wiki/cache#English)    
+>####[cache](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/cache_1)    
     /kæʃ/
     "cash"
->####[Chrome](https://en.wiktionary.org/wiki/chrome)    
+>####[Chrome](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/chrome)    
     /kɹəʊm/ or /kɹoʊm/
     ""
 >####[Clojure](https://en.wikipedia.org/wiki/Clojure)    
@@ -32,7 +32,7 @@
 ***
 
 ### D
->####[data](https://en.wiktionary.org/wiki/data#Pronunciation)
+>####[data](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/data)
     /ˈdeɪtə/ or /ˈdætə/ or /ˈdɑːtə/
     ""
 >####[Debian](https://en.wikipedia.org/wiki/Debian)
@@ -59,14 +59,20 @@
 ***
 
 ### G
->####[GIF](https://en.wikipedia.org/wiki/GIF) 
+>####[GIF](http://dictionary.cambridge.org/dictionary/english/gif) 
     /ˈdʒɪf/ or /ˈɡɪf/
     "jif" 
->####[Git](https://en.wikipedia.org/wiki/Git_(software))
+>####[Git](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/git)
     /ɡɪt/
     "" 
->####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
+>####[grunt](http://dictionary.cambridge.org/dictionary/english/grunt)
+    /ɡrʌnt/
+    "" 
+>####[GUI](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/gui?q=GUI)
     /ˈɡuːi/
+    "" 
+>####[gulp](http://dictionary.cambridge.org/pronunciation/english/gulp)
+    /ɡʌlp/
     "" 
 ***
 
@@ -77,16 +83,16 @@
 ***
 
 ### I
->####C++  
+>####nothing 
     [t͡sɛ plus plus]
     "c plus plus" 
 ***
 
 ### J
->####[JAVA](http://dictionary.cambridge.org/pronunciation/english/java) 
+>####[JAVA](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/java) 
     /ˈdʒɑːvə/
     "" 
->####[JPEG](https://en.wikipedia.org/wiki/JPEG) 
+>####[JPEG](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/jpeg) 
     /ˈdʒeɪpɛɡ/
     "jay-peg" 
 >####[jQuery](https://groups.google.com/forum/#!msg/jquery-en/I5sV1_nOVsE/PN3e_QczOXwJ) 
