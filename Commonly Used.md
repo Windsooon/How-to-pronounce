@@ -83,9 +83,9 @@
 ***
 
 ### I
->####nothing 
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
 
 ### J
@@ -101,9 +101,9 @@
 ***
 
 ### K
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
 
 ### L
@@ -122,9 +122,9 @@
 ***
 
 ### N
->####C++  
-    [t͡sɛ plus plus]
-    "c-plus-plus" 
+>####nothing yet 
+    //
+    ""  
 ***
 
 ### O
@@ -150,9 +150,9 @@
 ***
 
 ### Q
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    ""  
 ***
 
 ### R
@@ -168,9 +168,9 @@
 ***
 
 ### T
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    ""  
 ***
 
 ### U
@@ -189,26 +189,26 @@
 ***
 
 ### W
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
 
 ### X
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
 
 ### Y
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
 
 ### Z
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####nothing yet 
+    //
+    "" 
 ***
     
