@@ -62,6 +62,12 @@
 >####[^](http://dictionary.cambridge.org/pronunciation/english/caret)
     Caret /ˈkær.ət/ or /ˈker-/
     ""
+>####[~](http://dictionary.cambridge.org/dictionary/english/tilde)
+    Tilde /ˈtɪl.də/
+    ""
+>####[`](http://dictionary.cambridge.org/dictionary/english/grave-accent?q=grave+accents)
+    Grave accent /ˌɡrɑːv ˈæksənt/
+    ""
 >####[_](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/underscore?q=Underscore)
     Underscore /ˌʌn.dəˈskɔːr/ or /-dɚˈskɔːr/
     ""
