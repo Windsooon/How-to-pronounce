@@ -6,12 +6,15 @@
     [ey-duh]
     ""
 >####AppleScript
-    //
+    /ˈæp.l skrɪpt̩/
     ""
 >####ARexx 
     //
     ""
->####AspectJ Assembly Language
+>####AspectJ 
+    //
+    ""
+>####Assembly Language
     //
     ""
 >####AutoHotkey
@@ -32,11 +35,11 @@
 >####[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
     /bæʃ/
     ""
->####Basic
-    //
+>####[Basic](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/basic_1)
+    /ˈbeɪ.sɪk/
     ""
->####batch
-    //
+>####[batch](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/batch)
+    /bætʃ/
     ""
 >####bc
     //
@@ -47,8 +50,8 @@
 >####BeanShell
     //
     ""
->####Bliss
-    //
+>####[Bliss](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/bliss?q=Bliss)
+    /blɪs/
     ""
 ***
 
