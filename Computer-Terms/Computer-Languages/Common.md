@@ -15,7 +15,7 @@
     //
     ""
 >####Assembly Language
-    //
+    /əˈsem.bli ˈlæŋ.ɡwɪdʒ/
     ""
 >####AutoHotkey
     //
@@ -140,17 +140,17 @@
 ***
 
 ### F
->####Factor
-    //
+>####[Factor](http://dictionary.cambridge.org/dictionary/english/factor?q=Factor#translations)
+    /ˈfæk.tər/ 
     ""
 >####Flow-matic
     //
     ""
->####Forth
-    //
+>####[Forth](http://dictionary.cambridge.org/dictionary/english/forth?q=Forth)
+    /fɔːθ/ or /fɔːrθ/
     ""
->####Fortran
-    //
+>####[Fortran](http://dictionary.cambridge.org/dictionary/english/fortran?q=Fortran)
+    /ˈfɔːtræn/
     ""
     
 ***
@@ -159,8 +159,8 @@
 >####GNU Octave
     //
     ""
->####Go
-    //
+>####[Go](http://dictionary.cambridge.org/dictionary/english/go?q=Go)
+    /ɡəʊ/ or /ɡoʊ/
     ""
 >####Groovy
     //
@@ -169,8 +169,8 @@
 ***
 
 ### H
->####Hack
-    //
+>####[Hack](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/hack_1?q=Hack)
+    /hæk/
     ""
 >####Haskell
     //
@@ -194,8 +194,8 @@
 >####Icon
     //
     ""
->####Inform
-    //
+>####[Inform](http://dictionary.cambridge.org/dictionary/english/inform?q=Inform)
+    /ɪnˈfɔːm/ or /-ˈfɔːrm/
     ""
     
 ***
@@ -235,17 +235,17 @@
 >####LaTeX
     /ˈlɑːtɛx/ or /ˈleɪtɛx/
     "lah-tekh" or "lay-tekh"
->####Less
-    //
+>####[Less](http://dictionary.cambridge.org/dictionary/english/less?q=Less)
+    /les/
     ""
 >####LilyPond
     //
     ""
->####Lisp
-    //
+>####[Lisp](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/lisp_1?q=Lisp)
+    /lɪsp/
     ""
->####Logo
-    //
+>####[Logo](http://dictionary.cambridge.org/dictionary/english/logo?q=Logo)
+    /ˈləʊ.ɡəʊ/ or /ˈloʊ.ɡoʊ/ 
     ""
 >####Lua
     //
@@ -257,8 +257,8 @@
 >####machine code
     //
     "" 
->####Make
-    //
+>####[Make](http://dictionary.cambridge.org/dictionary/english/make?q=Make)
+    /meɪk/
     ""
 >####MASM
     //
@@ -266,8 +266,8 @@
 >####Mathematica
     //
     ""
->####Max
-    //
+>####[Max](http://dictionary.cambridge.org/dictionary/english/max?q=Max)
+    /mæks/
     ""
 >####Metafont
     //
@@ -278,8 +278,8 @@
 >####Modula-3
     //
     ""
->####Mumps
-    //
+>####[Mumps](http://dictionary.cambridge.org/dictionary/english/mumps?q=Mumps)
+    /mʌmps/
     ""
     
 ***
@@ -317,8 +317,8 @@
 >####PARI/GP
     //
     ""
->####Perl
-    //
+>####[Perl](http://dictionary.cambridge.org/dictionary/english/perl?q=Perl)
+    /pɜːl/
     ""
 >####Perl6
     //
@@ -335,8 +335,8 @@
 >####PostScript
     //
     ""
->####Processing
-    //
+>####[Processing](http://dictionary.cambridge.org/dictionary/english/processing?q=Processing)
+    /ˈprəʊsesɪŋ/ or /ˈprɑːsesɪŋ/
     ""
 >####Processing.js
     //
@@ -344,8 +344,8 @@
 >####Prolog
     //
     ""
->####Python
-    //
+>####[Python](http://dictionary.cambridge.org/dictionary/english/python?q=Python)
+    /ˈpaɪ.θən/ or /-θɑːn/
     ""
     
 ***
@@ -358,8 +358,8 @@
 ***
 
 ### R
->####Rocket
-    //
+>####[Rocket](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/rocket_1?q=Rocket)
+    /ˈrɒk.ɪt/ or /ˈrɑː.kɪt/
     ""
 >####Ratfor
     //
@@ -389,17 +389,17 @@
 >####Scala
     //
     ""
->####Scheme
-    //
+>####[Scheme](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/scheme_1?q=Scheme)
+    /skiːm/
     ""
->####Scratch
-    //
+>####[Scratch](http://dictionary.cambridge.org/dictionary/english/scratch?q=Scratch)
+    /skrætʃ/
     ""
 >####Sed
     //
     ""
->####Self
-    //
+>####[Self](http://dictionary.cambridge.org/dictionary/english/self?q=Self)
+    /self/
     ""
 >####Simula
     //
@@ -419,8 +419,8 @@
 >####SuperCollider
     //
     ""
->####Swift
-    //
+>####[Swift](http://dictionary.cambridge.org/dictionary/english-chinese-simplified/swift_1?q=Swift)
+    /swɪft/
     ""
     
 ***
