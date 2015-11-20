@@ -162,9 +162,9 @@
 ***
 
 ### S
->####[Skype](https://en.wikipedia.org/wiki/Skype)  
-    /skaɪp/
-    "" 
+>####nothing yet 
+    //
+    ""  
 ***
 
 ### T
