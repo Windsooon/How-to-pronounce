@@ -20,3 +20,7 @@
     
     
 ###Keep an open mind and cheers.
+
+I create a activity in Unicooo 
+https://www.unicooo.com/act/Windson/How%20to%20pronounce%20computer%20term/
+Hope this will help.
